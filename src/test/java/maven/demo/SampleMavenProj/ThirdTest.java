@@ -1,7 +1,7 @@
 package maven.demo.SampleMavenProj;
 
-public class TestDemo {
+public class ThirdTest {
 public static void main(String[] args) {
-	System.out.println("TestDemo class");
+	System.out.println("ThirdTest Class");
 }
 }
