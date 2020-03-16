@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="47" started-at="2019-12-15T03:34:40Z" finished-at="2019-12-15T03:34:40Z">
+  <suite name="Suite" duration-ms="22710" started-at="2020-03-16T15:55:31Z" finished-at="2020-03-16T15:55:53Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47" started-at="2019-12-15T03:34:40Z" finished-at="2019-12-15T03:34:40Z">
-      <class name="maven.demo.SampleMavenProj.Demo">
-        <test-method status="PASS" signature="test()[pri:0, instance:maven.demo.SampleMavenProj.Demo@7f9a81e8]" name="test" duration-ms="13" started-at="2019-12-15T03:34:40Z" finished-at="2019-12-15T03:34:40Z">
+    <test name="Test" duration-ms="22710" started-at="2020-03-16T15:55:31Z" finished-at="2020-03-16T15:55:53Z">
+      <class name="maven.demo.SampleMavenProj.TestDemo">
+        <test-method status="PASS" signature="m1()[pri:0, instance:maven.demo.SampleMavenProj.TestDemo@28d25987]" name="m1" duration-ms="22652" started-at="2020-03-16T15:55:31Z" finished-at="2020-03-16T15:55:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- maven.demo.SampleMavenProj.Demo -->
+        </test-method> <!-- m1 -->
+      </class> <!-- maven.demo.SampleMavenProj.TestDemo -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
