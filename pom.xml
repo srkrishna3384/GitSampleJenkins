@@ -267,8 +267,10 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
-			<version>2.7.2</version>
+			<version>2.9.10.1</version>
 		</dependency>
+		<!-- <dependency> <groupId>com.fasterxml.jackson.core</groupId> <artifactId>jackson-databind</artifactId> 
+			<version>[2.9.10.1,)</version> </dependency> -->
 		<!-- <dependency> <groupId>com.atlassian.connect</groupId> <artifactId>ac-play-java_2.10</artifactId> 
 			<version>0.10.1</version> <exclusions> <exclusion> <groupId>com.atlassian.fugue</groupId> 
 			<artifactId>fugue</artifactId> </exclusion> <exclusion> <groupId>com.atlassian.jwt</groupId> 
