@@ -1,7 +1,12 @@
 package maven.demo.SampleMavenProj;
 
+import org.testng.annotations.Test;
+
 public class TestTest {
-public static void main(String[] args) {
+	@Test
+public void test() {
 	System.out.println("TestTest Class");
+	System.out.println("");
+	System.out.println("");
 }
 }
